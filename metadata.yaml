@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '25134'
     url: http://www.gutenberg.org/2009/agents/25134
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42844#Life-and-Correspondence-of-David-Hume-Volume-II--of-2-
 gutenberg_issued: '2013-05-30'
 gutenberg_type: Text
 identifiers:
